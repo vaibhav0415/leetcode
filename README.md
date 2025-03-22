@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/vaibhav0415/leetcode/tree/master/0890-lemonade-change) |
 | [0891-score-after-flipping-matrix](https://github.com/vaibhav0415/leetcode/tree/master/0891-score-after-flipping-matrix) |
 | [0898-transpose-matrix](https://github.com/vaibhav0415/leetcode/tree/master/0898-transpose-matrix) |
+| [0907-koko-eating-bananas](https://github.com/vaibhav0415/leetcode/tree/master/0907-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/vaibhav0415/leetcode/tree/master/0792-binary-search) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/vaibhav0415/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/vaibhav0415/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0907-koko-eating-bananas](https://github.com/vaibhav0415/leetcode/tree/master/0907-koko-eating-bananas) |
 ## Divide and Conquer
 |  |
 | ------- |
