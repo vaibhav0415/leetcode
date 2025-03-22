@@ -745,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/vaibhav0415/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/vaibhav0415/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/vaibhav0415/leetcode/tree/master/0820-find-eventual-safe-states) |
+| [0832-binary-tree-pruning](https://github.com/vaibhav0415/leetcode/tree/master/0832-binary-tree-pruning) |
 ## Tree
 |  |
 | ------- |
@@ -796,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/vaibhav0415/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/vaibhav0415/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/vaibhav0415/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0832-binary-tree-pruning](https://github.com/vaibhav0415/leetcode/tree/master/0832-binary-tree-pruning) |
 ## Binary Tree
 |  |
 | ------- |
@@ -847,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/vaibhav0415/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/vaibhav0415/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/vaibhav0415/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0832-binary-tree-pruning](https://github.com/vaibhav0415/leetcode/tree/master/0832-binary-tree-pruning) |
 ## Binary Search Tree
 |  |
 | ------- |
