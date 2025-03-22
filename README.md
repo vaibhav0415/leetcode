@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/vaibhav0415/leetcode/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/vaibhav0415/leetcode/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/vaibhav0415/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0506-relative-ranks](https://github.com/vaibhav0415/leetcode/tree/master/0506-relative-ranks) |
 ## Hash Table
 |  |
 | ------- |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vaibhav0415/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/vaibhav0415/leetcode/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/vaibhav0415/leetcode/tree/master/0502-ipo) |
+| [0506-relative-ranks](https://github.com/vaibhav0415/leetcode/tree/master/0506-relative-ranks) |
 ## Backtracking
 |  |
 | ------- |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/vaibhav0415/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/vaibhav0415/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/vaibhav0415/leetcode/tree/master/0502-ipo) |
+| [0506-relative-ranks](https://github.com/vaibhav0415/leetcode/tree/master/0506-relative-ranks) |
 ## Merge Sort
 |  |
 | ------- |
