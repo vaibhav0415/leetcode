@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/vaibhav0415/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vaibhav0415/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/vaibhav0415/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/vaibhav0415/leetcode/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 ## Hash Table
 |  |
 | ------- |
@@ -660,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/vaibhav0415/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vaibhav0415/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1829-maximum-units-on-a-truck](https://github.com/vaibhav0415/leetcode/tree/master/1829-maximum-units-on-a-truck) |
+| [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/vaibhav0415/leetcode/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 ## Backtracking
 |  |
 | ------- |
