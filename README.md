@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/vaibhav0415/leetcode/tree/master/0463-island-perimeter) |
 | [0493-reverse-pairs](https://github.com/vaibhav0415/leetcode/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/vaibhav0415/leetcode/tree/master/0496-next-greater-element-i) |
+| [0502-ipo](https://github.com/vaibhav0415/leetcode/tree/master/0502-ipo) |
 ## Hash Table
 |  |
 | ------- |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/vaibhav0415/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vaibhav0415/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/vaibhav0415/leetcode/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/vaibhav0415/leetcode/tree/master/0502-ipo) |
 ## Trie
 |  |
 | ------- |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/vaibhav0415/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vaibhav0415/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/vaibhav0415/leetcode/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/vaibhav0415/leetcode/tree/master/0502-ipo) |
 ## Backtracking
 |  |
 | ------- |
@@ -460,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/vaibhav0415/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/vaibhav0415/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/vaibhav0415/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0502-ipo](https://github.com/vaibhav0415/leetcode/tree/master/0502-ipo) |
 ## Merge Sort
 |  |
 | ------- |
