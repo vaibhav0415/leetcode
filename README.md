@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/vaibhav0415/leetcode/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/vaibhav0415/leetcode/tree/master/0860-design-circular-queue) |
 | [0861-flipping-an-image](https://github.com/vaibhav0415/leetcode/tree/master/0861-flipping-an-image) |
+| [0875-longest-mountain-in-array](https://github.com/vaibhav0415/leetcode/tree/master/0875-longest-mountain-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/vaibhav0415/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/vaibhav0415/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0861-flipping-an-image](https://github.com/vaibhav0415/leetcode/tree/master/0861-flipping-an-image) |
+| [0875-longest-mountain-in-array](https://github.com/vaibhav0415/leetcode/tree/master/0875-longest-mountain-in-array) |
 ## Greedy
 |  |
 | ------- |
@@ -636,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0688-knight-probability-in-chessboard](https://github.com/vaibhav0415/leetcode/tree/master/0688-knight-probability-in-chessboard) |
 | [0741-cherry-pickup](https://github.com/vaibhav0415/leetcode/tree/master/0741-cherry-pickup) |
 | [0747-min-cost-climbing-stairs](https://github.com/vaibhav0415/leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0875-longest-mountain-in-array](https://github.com/vaibhav0415/leetcode/tree/master/0875-longest-mountain-in-array) |
 | [1013-fibonacci-number](https://github.com/vaibhav0415/leetcode/tree/master/1013-fibonacci-number) |
 ## Monotonic Stack
 |  |
@@ -970,6 +973,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/vaibhav0415/leetcode/tree/master/0204-count-primes) |
+| [0875-longest-mountain-in-array](https://github.com/vaibhav0415/leetcode/tree/master/0875-longest-mountain-in-array) |
 ## Number Theory
 |  |
 | ------- |
