@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/vaibhav0415/leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vaibhav0415/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1484-linked-list-in-binary-tree](https://github.com/vaibhav0415/leetcode/tree/master/1484-linked-list-in-binary-tree) |
+| [1765-merge-in-between-linked-lists](https://github.com/vaibhav0415/leetcode/tree/master/1765-merge-in-between-linked-lists) |
 ## Math
 |  |
 | ------- |
