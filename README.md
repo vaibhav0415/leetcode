@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/vaibhav0415/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1794-minimize-deviation-in-array](https://github.com/vaibhav0415/leetcode/tree/master/1794-minimize-deviation-in-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vaibhav0415/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1833-find-the-highest-altitude](https://github.com/vaibhav0415/leetcode/tree/master/1833-find-the-highest-altitude) |
 ## Hash Table
 |  |
 | ------- |
@@ -1265,6 +1266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/vaibhav0415/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/vaibhav0415/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/vaibhav0415/leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1833-find-the-highest-altitude](https://github.com/vaibhav0415/leetcode/tree/master/1833-find-the-highest-altitude) |
 ## Quickselect
 |  |
 | ------- |
