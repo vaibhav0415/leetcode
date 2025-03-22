@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/vaibhav0415/leetcode/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/vaibhav0415/leetcode/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/vaibhav0415/leetcode/tree/master/0886-score-of-parentheses) |
+| [0961-long-pressed-name](https://github.com/vaibhav0415/leetcode/tree/master/0961-long-pressed-name) |
 ## Sliding Window
 |  |
 | ------- |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-longest-mountain-in-array](https://github.com/vaibhav0415/leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0908-middle-of-the-linked-list](https://github.com/vaibhav0415/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/vaibhav0415/leetcode/tree/master/0917-boats-to-save-people) |
+| [0961-long-pressed-name](https://github.com/vaibhav0415/leetcode/tree/master/0961-long-pressed-name) |
 ## Greedy
 |  |
 | ------- |
