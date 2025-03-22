@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-k-th-smallest-prime-fraction](https://github.com/vaibhav0415/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0817-design-hashmap](https://github.com/vaibhav0415/leetcode/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/vaibhav0415/leetcode/tree/master/0860-design-circular-queue) |
+| [0861-flipping-an-image](https://github.com/vaibhav0415/leetcode/tree/master/0861-flipping-an-image) |
 ## Hash Table
 |  |
 | ------- |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/vaibhav0415/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/vaibhav0415/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/vaibhav0415/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0861-flipping-an-image](https://github.com/vaibhav0415/leetcode/tree/master/0861-flipping-an-image) |
 ## Greedy
 |  |
 | ------- |
@@ -591,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/vaibhav0415/leetcode/tree/master/0733-flood-fill) |
 | [0741-cherry-pickup](https://github.com/vaibhav0415/leetcode/tree/master/0741-cherry-pickup) |
 | [0777-toeplitz-matrix](https://github.com/vaibhav0415/leetcode/tree/master/0777-toeplitz-matrix) |
+| [0861-flipping-an-image](https://github.com/vaibhav0415/leetcode/tree/master/0861-flipping-an-image) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -655,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/vaibhav0415/leetcode/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/vaibhav0415/leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/vaibhav0415/leetcode/tree/master/0735-asteroid-collision) |
+| [0861-flipping-an-image](https://github.com/vaibhav0415/leetcode/tree/master/0861-flipping-an-image) |
 ## Combinatorics
 |  |
 | ------- |
@@ -683,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/vaibhav0415/leetcode/tree/master/0645-set-mismatch) |
 | [0795-k-th-symbol-in-grammar](https://github.com/vaibhav0415/leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0800-letter-case-permutation](https://github.com/vaibhav0415/leetcode/tree/master/0800-letter-case-permutation) |
+| [0861-flipping-an-image](https://github.com/vaibhav0415/leetcode/tree/master/0861-flipping-an-image) |
 ## Memoization
 |  |
 | ------- |
