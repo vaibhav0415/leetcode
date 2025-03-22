@@ -813,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/vaibhav0415/leetcode/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/vaibhav0415/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1008-binary-tree-cameras](https://github.com/vaibhav0415/leetcode/tree/master/1008-binary-tree-cameras) |
+| [1021-distribute-coins-in-binary-tree](https://github.com/vaibhav0415/leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 ## Tree
 |  |
 | ------- |
@@ -871,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/vaibhav0415/leetcode/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/vaibhav0415/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1008-binary-tree-cameras](https://github.com/vaibhav0415/leetcode/tree/master/1008-binary-tree-cameras) |
+| [1021-distribute-coins-in-binary-tree](https://github.com/vaibhav0415/leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -929,6 +931,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/vaibhav0415/leetcode/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/vaibhav0415/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1008-binary-tree-cameras](https://github.com/vaibhav0415/leetcode/tree/master/1008-binary-tree-cameras) |
+| [1021-distribute-coins-in-binary-tree](https://github.com/vaibhav0415/leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
