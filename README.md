@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/vaibhav0415/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/vaibhav0415/leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1014-k-closest-points-to-origin](https://github.com/vaibhav0415/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1019-squares-of-a-sorted-array](https://github.com/vaibhav0415/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/vaibhav0415/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/vaibhav0415/leetcode/tree/master/0917-boats-to-save-people) |
 | [0961-long-pressed-name](https://github.com/vaibhav0415/leetcode/tree/master/0961-long-pressed-name) |
+| [1019-squares-of-a-sorted-array](https://github.com/vaibhav0415/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
@@ -538,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/vaibhav0415/leetcode/tree/master/0948-sort-an-array) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/vaibhav0415/leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1014-k-closest-points-to-origin](https://github.com/vaibhav0415/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1019-squares-of-a-sorted-array](https://github.com/vaibhav0415/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Backtracking
 |  |
 | ------- |
