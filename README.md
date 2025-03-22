@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/vaibhav0415/leetcode/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/vaibhav0415/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/vaibhav0415/leetcode/tree/master/0917-boats-to-save-people) |
+| [0940-fruit-into-baskets](https://github.com/vaibhav0415/leetcode/tree/master/0940-fruit-into-baskets) |
 ## Hash Table
 |  |
 | ------- |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/vaibhav0415/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0817-design-hashmap](https://github.com/vaibhav0415/leetcode/tree/master/0817-design-hashmap) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/vaibhav0415/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0940-fruit-into-baskets](https://github.com/vaibhav0415/leetcode/tree/master/0940-fruit-into-baskets) |
 ## Linked List
 |  |
 | ------- |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/vaibhav0415/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/vaibhav0415/leetcode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/vaibhav0415/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0940-fruit-into-baskets](https://github.com/vaibhav0415/leetcode/tree/master/0940-fruit-into-baskets) |
 ## Binary Search
 |  |
 | ------- |
