@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1829-maximum-units-on-a-truck](https://github.com/vaibhav0415/leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1833-find-the-highest-altitude](https://github.com/vaibhav0415/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/vaibhav0415/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/vaibhav0415/leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/vaibhav0415/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1777-determine-if-two-strings-are-close](https://github.com/vaibhav0415/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vaibhav0415/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/vaibhav0415/leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/vaibhav0415/leetcode/tree/master/1448-maximum-69-number) |
 | [1610-xor-operation-in-an-array](https://github.com/vaibhav0415/leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1642-water-bottles](https://github.com/vaibhav0415/leetcode/tree/master/1642-water-bottles) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/vaibhav0415/leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 ## Recursion
 |  |
 | ------- |
@@ -1232,6 +1235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/vaibhav0415/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/vaibhav0415/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1777-determine-if-two-strings-are-close](https://github.com/vaibhav0415/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/vaibhav0415/leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 ## Database
 |  |
 | ------- |
