@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/vaibhav0415/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/vaibhav0415/leetcode/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/vaibhav0415/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0778-reorganize-string](https://github.com/vaibhav0415/leetcode/tree/master/0778-reorganize-string) |
 | [0817-design-hashmap](https://github.com/vaibhav0415/leetcode/tree/master/0817-design-hashmap) |
 ## Linked List
 |  |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/vaibhav0415/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/vaibhav0415/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0742-to-lower-case](https://github.com/vaibhav0415/leetcode/tree/master/0742-to-lower-case) |
+| [0778-reorganize-string](https://github.com/vaibhav0415/leetcode/tree/master/0778-reorganize-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/vaibhav0415/leetcode/tree/master/0502-ipo) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/vaibhav0415/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0680-valid-palindrome-ii](https://github.com/vaibhav0415/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0778-reorganize-string](https://github.com/vaibhav0415/leetcode/tree/master/0778-reorganize-string) |
 ## Trie
 |  |
 | ------- |
@@ -482,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/vaibhav0415/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/vaibhav0415/leetcode/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/vaibhav0415/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0778-reorganize-string](https://github.com/vaibhav0415/leetcode/tree/master/0778-reorganize-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -535,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/vaibhav0415/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/vaibhav0415/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0744-network-delay-time](https://github.com/vaibhav0415/leetcode/tree/master/0744-network-delay-time) |
+| [0778-reorganize-string](https://github.com/vaibhav0415/leetcode/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/vaibhav0415/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Merge Sort
 |  |
@@ -913,6 +918,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/vaibhav0415/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/vaibhav0415/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/vaibhav0415/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0778-reorganize-string](https://github.com/vaibhav0415/leetcode/tree/master/0778-reorganize-string) |
 ## Database
 |  |
 | ------- |
