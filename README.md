@@ -774,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-binary-tree-pruning](https://github.com/vaibhav0415/leetcode/tree/master/0832-binary-tree-pruning) |
 | [0871-keys-and-rooms](https://github.com/vaibhav0415/leetcode/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/vaibhav0415/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/vaibhav0415/leetcode/tree/master/0904-leaf-similar-trees) |
 ## Tree
 |  |
 | ------- |
@@ -827,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/vaibhav0415/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0832-binary-tree-pruning](https://github.com/vaibhav0415/leetcode/tree/master/0832-binary-tree-pruning) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/vaibhav0415/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/vaibhav0415/leetcode/tree/master/0904-leaf-similar-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -880,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/vaibhav0415/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0832-binary-tree-pruning](https://github.com/vaibhav0415/leetcode/tree/master/0832-binary-tree-pruning) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/vaibhav0415/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/vaibhav0415/leetcode/tree/master/0904-leaf-similar-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
