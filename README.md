@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/vaibhav0415/leetcode/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/vaibhav0415/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/vaibhav0415/leetcode/tree/master/0695-max-area-of-island) |
+| [0724-find-pivot-index](https://github.com/vaibhav0415/leetcode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/vaibhav0415/leetcode/tree/master/0792-binary-search) |
 | [0817-design-hashmap](https://github.com/vaibhav0415/leetcode/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/vaibhav0415/leetcode/tree/master/0860-design-circular-queue) |
@@ -918,6 +919,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/vaibhav0415/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/vaibhav0415/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/vaibhav0415/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/vaibhav0415/leetcode/tree/master/0724-find-pivot-index) |
 ## Quickselect
 |  |
 | ------- |
