@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/vaibhav0415/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/vaibhav0415/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/vaibhav0415/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/vaibhav0415/leetcode/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/vaibhav0415/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/vaibhav0415/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/vaibhav0415/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/vaibhav0415/leetcode/tree/master/0342-power-of-four) |
 ## String
 |  |
 | ------- |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vaibhav0415/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/vaibhav0415/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/vaibhav0415/leetcode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/vaibhav0415/leetcode/tree/master/0342-power-of-four) |
 ## Memoization
 |  |
 | ------- |
