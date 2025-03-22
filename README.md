@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1206-corporate-flight-bookings](https://github.com/vaibhav0415/leetcode/tree/master/1206-corporate-flight-bookings) |
 | [1217-relative-sort-array](https://github.com/vaibhav0415/leetcode/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/vaibhav0415/leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/vaibhav0415/leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 ## Hash Table
 |  |
 | ------- |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/vaibhav0415/leetcode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/vaibhav0415/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1236-n-th-tribonacci-number](https://github.com/vaibhav0415/leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/vaibhav0415/leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 ## Recursion
 |  |
 | ------- |
@@ -1216,4 +1218,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/vaibhav0415/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/vaibhav0415/leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
