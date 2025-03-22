@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/vaibhav0415/leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1753-path-with-minimum-effort](https://github.com/vaibhav0415/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1794-minimize-deviation-in-array](https://github.com/vaibhav0415/leetcode/tree/master/1794-minimize-deviation-in-array) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/vaibhav0415/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/vaibhav0415/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/vaibhav0415/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1777-determine-if-two-strings-are-close](https://github.com/vaibhav0415/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/vaibhav0415/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/vaibhav0415/leetcode/tree/master/0917-boats-to-save-people) |
 | [0961-long-pressed-name](https://github.com/vaibhav0415/leetcode/tree/master/0961-long-pressed-name) |
 | [1019-squares-of-a-sorted-array](https://github.com/vaibhav0415/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/vaibhav0415/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -638,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1503-reducing-dishes](https://github.com/vaibhav0415/leetcode/tree/master/1503-reducing-dishes) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/vaibhav0415/leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1777-determine-if-two-strings-are-close](https://github.com/vaibhav0415/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/vaibhav0415/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Backtracking
 |  |
 | ------- |
