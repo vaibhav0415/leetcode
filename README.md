@@ -432,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/vaibhav0415/leetcode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/vaibhav0415/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/vaibhav0415/leetcode/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/vaibhav0415/leetcode/tree/master/0338-counting-bits) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/vaibhav0415/leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/vaibhav0415/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/vaibhav0415/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/vaibhav0415/leetcode/tree/master/0338-counting-bits) |
 ## Memoization
 |  |
 | ------- |
