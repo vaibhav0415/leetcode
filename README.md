@@ -563,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/vaibhav0415/leetcode/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/vaibhav0415/leetcode/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/vaibhav0415/leetcode/tree/master/0886-score-of-parentheses) |
+| [0933-increasing-order-search-tree](https://github.com/vaibhav0415/leetcode/tree/master/0933-increasing-order-search-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -783,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/vaibhav0415/leetcode/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/vaibhav0415/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/vaibhav0415/leetcode/tree/master/0904-leaf-similar-trees) |
+| [0933-increasing-order-search-tree](https://github.com/vaibhav0415/leetcode/tree/master/0933-increasing-order-search-tree) |
 ## Tree
 |  |
 | ------- |
@@ -837,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-binary-tree-pruning](https://github.com/vaibhav0415/leetcode/tree/master/0832-binary-tree-pruning) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/vaibhav0415/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/vaibhav0415/leetcode/tree/master/0904-leaf-similar-trees) |
+| [0933-increasing-order-search-tree](https://github.com/vaibhav0415/leetcode/tree/master/0933-increasing-order-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -891,6 +894,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-binary-tree-pruning](https://github.com/vaibhav0415/leetcode/tree/master/0832-binary-tree-pruning) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/vaibhav0415/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/vaibhav0415/leetcode/tree/master/0904-leaf-similar-trees) |
+| [0933-increasing-order-search-tree](https://github.com/vaibhav0415/leetcode/tree/master/0933-increasing-order-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -910,6 +914,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/vaibhav0415/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/vaibhav0415/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/vaibhav0415/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0933-increasing-order-search-tree](https://github.com/vaibhav0415/leetcode/tree/master/0933-increasing-order-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
