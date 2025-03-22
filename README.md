@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/vaibhav0415/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/vaibhav0415/leetcode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1479-construct-target-array-with-multiple-sums](https://github.com/vaibhav0415/leetcode/tree/master/1479-construct-target-array-with-multiple-sums) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/vaibhav0415/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -666,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/vaibhav0415/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/vaibhav0415/leetcode/tree/master/1127-last-stone-weight) |
 | [1479-construct-target-array-with-multiple-sums](https://github.com/vaibhav0415/leetcode/tree/master/1479-construct-target-array-with-multiple-sums) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/vaibhav0415/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Merge Sort
 |  |
 | ------- |
@@ -709,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/vaibhav0415/leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/vaibhav0415/leetcode/tree/master/1073-number-of-enclaves) |
 | [1104-coloring-a-border](https://github.com/vaibhav0415/leetcode/tree/master/1104-coloring-a-border) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/vaibhav0415/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1097,6 +1100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/vaibhav0415/leetcode/tree/master/1073-number-of-enclaves) |
 | [1104-coloring-a-border](https://github.com/vaibhav0415/leetcode/tree/master/1104-coloring-a-border) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/vaibhav0415/leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/vaibhav0415/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Union Find
 |  |
 | ------- |
@@ -1123,6 +1127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/vaibhav0415/leetcode/tree/master/0871-keys-and-rooms) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/vaibhav0415/leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/vaibhav0415/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/vaibhav0415/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Design
 |  |
 | ------- |
@@ -1250,6 +1255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-network-delay-time](https://github.com/vaibhav0415/leetcode/tree/master/0744-network-delay-time) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/vaibhav0415/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/vaibhav0415/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Radix Sort
 |  |
 | ------- |
