@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/vaibhav0415/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1829-maximum-units-on-a-truck](https://github.com/vaibhav0415/leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1833-find-the-highest-altitude](https://github.com/vaibhav0415/leetcode/tree/master/1833-find-the-highest-altitude) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/vaibhav0415/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
