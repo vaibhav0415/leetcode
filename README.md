@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/vaibhav0415/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/vaibhav0415/leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/vaibhav0415/leetcode/tree/master/0371-sum-of-two-integers) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/vaibhav0415/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/vaibhav0415/leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/vaibhav0415/leetcode/tree/master/0338-counting-bits) |
 | [0354-russian-doll-envelopes](https://github.com/vaibhav0415/leetcode/tree/master/0354-russian-doll-envelopes) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/vaibhav0415/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -722,4 +724,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/vaibhav0415/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Game Theory
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/vaibhav0415/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 <!---LeetCode Topics End-->
