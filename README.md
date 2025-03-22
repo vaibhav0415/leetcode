@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vaibhav0415/leetcode/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/vaibhav0415/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0386-lexicographical-numbers](https://github.com/vaibhav0415/leetcode/tree/master/0386-lexicographical-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vaibhav0415/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/vaibhav0415/leetcode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/vaibhav0415/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/vaibhav0415/leetcode/tree/master/0386-lexicographical-numbers) |
 ## Tree
 |  |
 | ------- |
