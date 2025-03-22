@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/vaibhav0415/leetcode/tree/master/0506-relative-ranks) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/vaibhav0415/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vaibhav0415/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/vaibhav0415/leetcode/tree/master/0542-01-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/vaibhav0415/leetcode/tree/master/0289-game-of-life) |
 | [0417-pacific-atlantic-water-flow](https://github.com/vaibhav0415/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/vaibhav0415/leetcode/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/vaibhav0415/leetcode/tree/master/0542-01-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/vaibhav0415/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/vaibhav0415/leetcode/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/vaibhav0415/leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0542-01-matrix](https://github.com/vaibhav0415/leetcode/tree/master/0542-01-matrix) |
 | [1013-fibonacci-number](https://github.com/vaibhav0415/leetcode/tree/master/1013-fibonacci-number) |
 ## Monotonic Stack
 |  |
@@ -764,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/vaibhav0415/leetcode/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/vaibhav0415/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vaibhav0415/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0542-01-matrix](https://github.com/vaibhav0415/leetcode/tree/master/0542-01-matrix) |
 ## Union Find
 |  |
 | ------- |
