@@ -399,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vaibhav0415/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vaibhav0415/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/vaibhav0415/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/vaibhav0415/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1203,6 +1204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1206-corporate-flight-bookings](https://github.com/vaibhav0415/leetcode/tree/master/1206-corporate-flight-bookings) |
 | [1370-count-number-of-nice-subarrays](https://github.com/vaibhav0415/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/vaibhav0415/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/vaibhav0415/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Quickselect
 |  |
 | ------- |
