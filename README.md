@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/vaibhav0415/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/vaibhav0415/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vaibhav0415/leetcode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/vaibhav0415/leetcode/tree/master/0290-word-pattern) |
 ## Linked List
 |  |
 | ------- |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/vaibhav0415/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/vaibhav0415/leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/vaibhav0415/leetcode/tree/master/0257-binary-tree-paths) |
+| [0290-word-pattern](https://github.com/vaibhav0415/leetcode/tree/master/0290-word-pattern) |
 ## Sliding Window
 |  |
 | ------- |
