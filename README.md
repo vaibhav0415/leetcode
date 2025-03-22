@@ -479,4 +479,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vaibhav0415/leetcode/tree/master/0169-majority-element) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/vaibhav0415/leetcode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
