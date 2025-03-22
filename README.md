@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/vaibhav0415/leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/vaibhav0415/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/vaibhav0415/leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/vaibhav0415/leetcode/tree/master/0258-add-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/vaibhav0415/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/vaibhav0415/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/vaibhav0415/leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/vaibhav0415/leetcode/tree/master/0258-add-digits) |
 ## Combinatorics
 |  |
 | ------- |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/vaibhav0415/leetcode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/vaibhav0415/leetcode/tree/master/0258-add-digits) |
 ## Topological Sort
 |  |
 | ------- |
