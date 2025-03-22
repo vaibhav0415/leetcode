@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/vaibhav0415/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/vaibhav0415/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/vaibhav0415/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/vaibhav0415/leetcode/tree/master/0295-find-median-from-data-stream) |
 ## Greedy
 |  |
 | ------- |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vaibhav0415/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vaibhav0415/leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/vaibhav0415/leetcode/tree/master/0274-h-index) |
+| [0295-find-median-from-data-stream](https://github.com/vaibhav0415/leetcode/tree/master/0295-find-median-from-data-stream) |
 ## Backtracking
 |  |
 | ------- |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/vaibhav0415/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vaibhav0415/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/vaibhav0415/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/vaibhav0415/leetcode/tree/master/0295-find-median-from-data-stream) |
 ## Merge Sort
 |  |
 | ------- |
@@ -600,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/vaibhav0415/leetcode/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/vaibhav0415/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/vaibhav0415/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0295-find-median-from-data-stream](https://github.com/vaibhav0415/leetcode/tree/master/0295-find-median-from-data-stream) |
 ## Counting
 |  |
 | ------- |
@@ -648,4 +652,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/vaibhav0415/leetcode/tree/master/0274-h-index) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/vaibhav0415/leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
