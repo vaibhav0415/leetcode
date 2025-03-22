@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/vaibhav0415/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1160-letter-tile-possibilities](https://github.com/vaibhav0415/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1217-relative-sort-array](https://github.com/vaibhav0415/leetcode/tree/master/1217-relative-sort-array) |
+| [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/vaibhav0415/leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 ## Linked List
 |  |
 | ------- |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-design-circular-queue](https://github.com/vaibhav0415/leetcode/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/vaibhav0415/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/vaibhav0415/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
+| [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/vaibhav0415/leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 ## Math
 |  |
 | ------- |
