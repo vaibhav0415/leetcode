@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/vaibhav0415/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/vaibhav0415/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/vaibhav0415/leetcode/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/vaibhav0415/leetcode/tree/master/0204-count-primes) |
 ## Hash Table
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/vaibhav0415/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/vaibhav0415/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/vaibhav0415/leetcode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/vaibhav0415/leetcode/tree/master/0204-count-primes) |
 ## Recursion
 |  |
 | ------- |
@@ -511,4 +513,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/vaibhav0415/leetcode/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/vaibhav0415/leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/vaibhav0415/leetcode/tree/master/0197-rising-temperature) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/vaibhav0415/leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/vaibhav0415/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
