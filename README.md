@@ -802,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/vaibhav0415/leetcode/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/vaibhav0415/leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/vaibhav0415/leetcode/tree/master/0975-range-sum-of-bst) |
+| [0988-flip-equivalent-binary-trees](https://github.com/vaibhav0415/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 ## Tree
 |  |
 | ------- |
@@ -858,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/vaibhav0415/leetcode/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/vaibhav0415/leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/vaibhav0415/leetcode/tree/master/0975-range-sum-of-bst) |
+| [0988-flip-equivalent-binary-trees](https://github.com/vaibhav0415/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -914,6 +916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/vaibhav0415/leetcode/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/vaibhav0415/leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/vaibhav0415/leetcode/tree/master/0975-range-sum-of-bst) |
+| [0988-flip-equivalent-binary-trees](https://github.com/vaibhav0415/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
