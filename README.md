@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/vaibhav0415/leetcode/tree/master/0778-reorganize-string) |
 | [0800-letter-case-permutation](https://github.com/vaibhav0415/leetcode/tree/master/0800-letter-case-permutation) |
 | [0812-rotate-string](https://github.com/vaibhav0415/leetcode/tree/master/0812-rotate-string) |
+| [0874-backspace-string-compare](https://github.com/vaibhav0415/leetcode/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/vaibhav0415/leetcode/tree/master/0886-score-of-parentheses) |
 ## Sliding Window
 |  |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/vaibhav0415/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/vaibhav0415/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0861-flipping-an-image](https://github.com/vaibhav0415/leetcode/tree/master/0861-flipping-an-image) |
+| [0874-backspace-string-compare](https://github.com/vaibhav0415/leetcode/tree/master/0874-backspace-string-compare) |
 | [0875-longest-mountain-in-array](https://github.com/vaibhav0415/leetcode/tree/master/0875-longest-mountain-in-array) |
 ## Greedy
 |  |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/vaibhav0415/leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/vaibhav0415/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vaibhav0415/leetcode/tree/master/0739-daily-temperatures) |
+| [0874-backspace-string-compare](https://github.com/vaibhav0415/leetcode/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/vaibhav0415/leetcode/tree/master/0886-score-of-parentheses) |
 ## Heap (Priority Queue)
 |  |
@@ -666,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/vaibhav0415/leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/vaibhav0415/leetcode/tree/master/0735-asteroid-collision) |
 | [0861-flipping-an-image](https://github.com/vaibhav0415/leetcode/tree/master/0861-flipping-an-image) |
+| [0874-backspace-string-compare](https://github.com/vaibhav0415/leetcode/tree/master/0874-backspace-string-compare) |
 ## Combinatorics
 |  |
 | ------- |
