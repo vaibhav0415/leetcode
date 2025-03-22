@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-nice-pairs-in-an-array](https://github.com/vaibhav0415/leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/vaibhav0415/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vaibhav0415/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/vaibhav0415/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/vaibhav0415/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vaibhav0415/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/vaibhav0415/leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/vaibhav0415/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -1228,6 +1230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/vaibhav0415/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0817-design-hashmap](https://github.com/vaibhav0415/leetcode/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/vaibhav0415/leetcode/tree/master/0860-design-circular-queue) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/vaibhav0415/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Counting
 |  |
 | ------- |
