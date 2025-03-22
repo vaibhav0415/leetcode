@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/vaibhav0415/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/vaibhav0415/leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/vaibhav0415/leetcode/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/vaibhav0415/leetcode/tree/master/0062-unique-paths) |
 ## Recursion
 |  |
 | ------- |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/vaibhav0415/leetcode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/vaibhav0415/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/vaibhav0415/leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/vaibhav0415/leetcode/tree/master/0062-unique-paths) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -193,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/vaibhav0415/leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/vaibhav0415/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/vaibhav0415/leetcode/tree/master/0059-spiral-matrix-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/vaibhav0415/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
