@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/vaibhav0415/leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/vaibhav0415/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/vaibhav0415/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0415-add-strings](https://github.com/vaibhav0415/leetcode/tree/master/0415-add-strings) |
 ## Recursion
 |  |
 | ------- |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/vaibhav0415/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/vaibhav0415/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/vaibhav0415/leetcode/tree/master/0392-is-subsequence) |
+| [0415-add-strings](https://github.com/vaibhav0415/leetcode/tree/master/0415-add-strings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/vaibhav0415/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/vaibhav0415/leetcode/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/vaibhav0415/leetcode/tree/master/0289-game-of-life) |
+| [0415-add-strings](https://github.com/vaibhav0415/leetcode/tree/master/0415-add-strings) |
 ## Combinatorics
 |  |
 | ------- |
