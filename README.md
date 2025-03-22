@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/vaibhav0415/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/vaibhav0415/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/vaibhav0415/leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/vaibhav0415/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1610-xor-operation-in-an-array](https://github.com/vaibhav0415/leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1642-water-bottles](https://github.com/vaibhav0415/leetcode/tree/master/1642-water-bottles) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/vaibhav0415/leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/vaibhav0415/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Recursion
 |  |
 | ------- |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/vaibhav0415/leetcode/tree/master/0342-power-of-four) |
 | [0795-k-th-symbol-in-grammar](https://github.com/vaibhav0415/leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/vaibhav0415/leetcode/tree/master/1013-fibonacci-number) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/vaibhav0415/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## String
 |  |
 | ------- |
@@ -856,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/vaibhav0415/leetcode/tree/master/0898-transpose-matrix) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/vaibhav0415/leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1642-water-bottles](https://github.com/vaibhav0415/leetcode/tree/master/1642-water-bottles) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/vaibhav0415/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Combinatorics
 |  |
 | ------- |
@@ -1291,6 +1295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/vaibhav0415/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0860-design-circular-queue](https://github.com/vaibhav0415/leetcode/tree/master/0860-design-circular-queue) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/vaibhav0415/leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/vaibhav0415/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Monotonic Queue
 |  |
 | ------- |
