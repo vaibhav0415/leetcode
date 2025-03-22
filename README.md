@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/vaibhav0415/leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vaibhav0415/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/vaibhav0415/leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0795-k-th-symbol-in-grammar](https://github.com/vaibhav0415/leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/vaibhav0415/leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/vaibhav0415/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/vaibhav0415/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/vaibhav0415/leetcode/tree/master/0342-power-of-four) |
+| [0795-k-th-symbol-in-grammar](https://github.com/vaibhav0415/leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/vaibhav0415/leetcode/tree/master/1013-fibonacci-number) |
 ## String
 |  |
@@ -666,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/vaibhav0415/leetcode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/vaibhav0415/leetcode/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/vaibhav0415/leetcode/tree/master/0645-set-mismatch) |
+| [0795-k-th-symbol-in-grammar](https://github.com/vaibhav0415/leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 ## Memoization
 |  |
 | ------- |
