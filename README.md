@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/vaibhav0415/leetcode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1479-construct-target-array-with-multiple-sums](https://github.com/vaibhav0415/leetcode/tree/master/1479-construct-target-array-with-multiple-sums) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/vaibhav0415/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1489-pizza-with-3n-slices](https://github.com/vaibhav0415/leetcode/tree/master/1489-pizza-with-3n-slices) |
 ## Hash Table
 |  |
 | ------- |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1285-balance-a-binary-search-tree](https://github.com/vaibhav0415/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1448-maximum-69-number](https://github.com/vaibhav0415/leetcode/tree/master/1448-maximum-69-number) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/vaibhav0415/leetcode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1489-pizza-with-3n-slices](https://github.com/vaibhav0415/leetcode/tree/master/1489-pizza-with-3n-slices) |
 ## Trie
 |  |
 | ------- |
@@ -670,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/vaibhav0415/leetcode/tree/master/1127-last-stone-weight) |
 | [1479-construct-target-array-with-multiple-sums](https://github.com/vaibhav0415/leetcode/tree/master/1479-construct-target-array-with-multiple-sums) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/vaibhav0415/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1489-pizza-with-3n-slices](https://github.com/vaibhav0415/leetcode/tree/master/1489-pizza-with-3n-slices) |
 ## Merge Sort
 |  |
 | ------- |
@@ -765,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vaibhav0415/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/vaibhav0415/leetcode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/vaibhav0415/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1489-pizza-with-3n-slices](https://github.com/vaibhav0415/leetcode/tree/master/1489-pizza-with-3n-slices) |
 ## Monotonic Stack
 |  |
 | ------- |
