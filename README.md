@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/vaibhav0415/leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/vaibhav0415/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/vaibhav0415/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1072-next-greater-node-in-linked-list](https://github.com/vaibhav0415/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/vaibhav0415/leetcode/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/vaibhav0415/leetcode/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/vaibhav0415/leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1072-next-greater-node-in-linked-list](https://github.com/vaibhav0415/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -598,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-score-of-parentheses](https://github.com/vaibhav0415/leetcode/tree/master/0886-score-of-parentheses) |
 | [0933-increasing-order-search-tree](https://github.com/vaibhav0415/leetcode/tree/master/0933-increasing-order-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/vaibhav0415/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1072-next-greater-node-in-linked-list](https://github.com/vaibhav0415/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -713,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/vaibhav0415/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/vaibhav0415/leetcode/tree/master/0739-daily-temperatures) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/vaibhav0415/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1072-next-greater-node-in-linked-list](https://github.com/vaibhav0415/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 ## Simulation
 |  |
 | ------- |
