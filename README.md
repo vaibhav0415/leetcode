@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/vaibhav0415/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/vaibhav0415/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1435-xor-queries-of-a-subarray](https://github.com/vaibhav0415/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/vaibhav0415/leetcode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 ## Hash Table
 |  |
 | ------- |
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/vaibhav0415/leetcode/tree/master/0917-boats-to-save-people) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/vaibhav0415/leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1448-maximum-69-number](https://github.com/vaibhav0415/leetcode/tree/master/1448-maximum-69-number) |
+| [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/vaibhav0415/leetcode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 ## Trie
 |  |
 | ------- |
@@ -750,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/vaibhav0415/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/vaibhav0415/leetcode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vaibhav0415/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/vaibhav0415/leetcode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 ## Monotonic Stack
 |  |
 | ------- |
