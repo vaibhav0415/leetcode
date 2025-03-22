@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/vaibhav0415/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vaibhav0415/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/vaibhav0415/leetcode/tree/master/0354-russian-doll-envelopes) |
+| [0413-arithmetic-slices](https://github.com/vaibhav0415/leetcode/tree/master/0413-arithmetic-slices) |
 ## Hash Table
 |  |
 | ------- |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/vaibhav0415/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/vaibhav0415/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/vaibhav0415/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0413-arithmetic-slices](https://github.com/vaibhav0415/leetcode/tree/master/0413-arithmetic-slices) |
 ## Binary Search
 |  |
 | ------- |
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0375-guess-number-higher-or-lower-ii](https://github.com/vaibhav0415/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0392-is-subsequence](https://github.com/vaibhav0415/leetcode/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/vaibhav0415/leetcode/tree/master/0397-integer-replacement) |
+| [0413-arithmetic-slices](https://github.com/vaibhav0415/leetcode/tree/master/0413-arithmetic-slices) |
 ## Monotonic Stack
 |  |
 | ------- |
