@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/vaibhav0415/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/vaibhav0415/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/vaibhav0415/leetcode/tree/master/0055-jump-game) |
+| [0059-spiral-matrix-ii](https://github.com/vaibhav0415/leetcode/tree/master/0059-spiral-matrix-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/vaibhav0415/leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/vaibhav0415/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/vaibhav0415/leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/vaibhav0415/leetcode/tree/master/0059-spiral-matrix-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -184,4 +186,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/vaibhav0415/leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/vaibhav0415/leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/vaibhav0415/leetcode/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
