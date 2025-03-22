@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/vaibhav0415/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1794-minimize-deviation-in-array](https://github.com/vaibhav0415/leetcode/tree/master/1794-minimize-deviation-in-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vaibhav0415/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1829-maximum-units-on-a-truck](https://github.com/vaibhav0415/leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1833-find-the-highest-altitude](https://github.com/vaibhav0415/leetcode/tree/master/1833-find-the-highest-altitude) |
 ## Hash Table
 |  |
@@ -588,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-minimum-suffix-flips](https://github.com/vaibhav0415/leetcode/tree/master/1652-minimum-suffix-flips) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/vaibhav0415/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1794-minimize-deviation-in-array](https://github.com/vaibhav0415/leetcode/tree/master/1794-minimize-deviation-in-array) |
+| [1829-maximum-units-on-a-truck](https://github.com/vaibhav0415/leetcode/tree/master/1829-maximum-units-on-a-truck) |
 ## Trie
 |  |
 | ------- |
@@ -647,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/vaibhav0415/leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1777-determine-if-two-strings-are-close](https://github.com/vaibhav0415/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vaibhav0415/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1829-maximum-units-on-a-truck](https://github.com/vaibhav0415/leetcode/tree/master/1829-maximum-units-on-a-truck) |
 ## Backtracking
 |  |
 | ------- |
