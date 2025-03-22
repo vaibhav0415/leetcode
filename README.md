@@ -413,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vaibhav0415/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1651-shuffle-string](https://github.com/vaibhav0415/leetcode/tree/master/1651-shuffle-string) |
 | [1652-minimum-suffix-flips](https://github.com/vaibhav0415/leetcode/tree/master/1652-minimum-suffix-flips) |
+| [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/vaibhav0415/leetcode/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
 ## Sliding Window
 |  |
 | ------- |
