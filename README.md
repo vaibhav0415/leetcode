@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/vaibhav0415/leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/vaibhav0415/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/vaibhav0415/leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/vaibhav0415/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/vaibhav0415/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/vaibhav0415/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/vaibhav0415/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/vaibhav0415/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Linked List
 |  |
 | ------- |
@@ -1176,6 +1178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/vaibhav0415/leetcode/tree/master/0778-reorganize-string) |
 | [1034-subarrays-with-k-different-integers](https://github.com/vaibhav0415/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1160-letter-tile-possibilities](https://github.com/vaibhav0415/leetcode/tree/master/1160-letter-tile-possibilities) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/vaibhav0415/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Database
 |  |
 | ------- |
