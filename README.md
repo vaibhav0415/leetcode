@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/vaibhav0415/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0680-valid-palindrome-ii](https://github.com/vaibhav0415/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/vaibhav0415/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0742-to-lower-case](https://github.com/vaibhav0415/leetcode/tree/master/0742-to-lower-case) |
 ## Sliding Window
 |  |
 | ------- |
