@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-longest-mountain-in-array](https://github.com/vaibhav0415/leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/vaibhav0415/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/vaibhav0415/leetcode/tree/master/0890-lemonade-change) |
+| [0891-score-after-flipping-matrix](https://github.com/vaibhav0415/leetcode/tree/master/0891-score-after-flipping-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/vaibhav0415/leetcode/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/vaibhav0415/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/vaibhav0415/leetcode/tree/master/0890-lemonade-change) |
+| [0891-score-after-flipping-matrix](https://github.com/vaibhav0415/leetcode/tree/master/0891-score-after-flipping-matrix) |
 ## Trie
 |  |
 | ------- |
@@ -605,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/vaibhav0415/leetcode/tree/master/0741-cherry-pickup) |
 | [0777-toeplitz-matrix](https://github.com/vaibhav0415/leetcode/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/vaibhav0415/leetcode/tree/master/0861-flipping-an-image) |
+| [0891-score-after-flipping-matrix](https://github.com/vaibhav0415/leetcode/tree/master/0891-score-after-flipping-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -701,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0795-k-th-symbol-in-grammar](https://github.com/vaibhav0415/leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0800-letter-case-permutation](https://github.com/vaibhav0415/leetcode/tree/master/0800-letter-case-permutation) |
 | [0861-flipping-an-image](https://github.com/vaibhav0415/leetcode/tree/master/0861-flipping-an-image) |
+| [0891-score-after-flipping-matrix](https://github.com/vaibhav0415/leetcode/tree/master/0891-score-after-flipping-matrix) |
 ## Memoization
 |  |
 | ------- |
