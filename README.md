@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vaibhav0415/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/vaibhav0415/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/vaibhav0415/leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/vaibhav0415/leetcode/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
 | ------- |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/vaibhav0415/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/vaibhav0415/leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/vaibhav0415/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/vaibhav0415/leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/vaibhav0415/leetcode/tree/master/0257-binary-tree-paths) |
 ## Sliding Window
 |  |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/vaibhav0415/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/vaibhav0415/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/vaibhav0415/leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/vaibhav0415/leetcode/tree/master/0242-valid-anagram) |
 ## Backtracking
 |  |
 | ------- |
