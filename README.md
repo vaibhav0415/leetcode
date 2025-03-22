@@ -751,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/vaibhav0415/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/vaibhav0415/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0832-binary-tree-pruning](https://github.com/vaibhav0415/leetcode/tree/master/0832-binary-tree-pruning) |
+| [0871-keys-and-rooms](https://github.com/vaibhav0415/leetcode/tree/master/0871-keys-and-rooms) |
 ## Tree
 |  |
 | ------- |
@@ -912,6 +913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/vaibhav0415/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/vaibhav0415/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/vaibhav0415/leetcode/tree/master/0820-find-eventual-safe-states) |
+| [0871-keys-and-rooms](https://github.com/vaibhav0415/leetcode/tree/master/0871-keys-and-rooms) |
 ## Union Find
 |  |
 | ------- |
@@ -933,6 +935,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/vaibhav0415/leetcode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/vaibhav0415/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/vaibhav0415/leetcode/tree/master/0820-find-eventual-safe-states) |
+| [0871-keys-and-rooms](https://github.com/vaibhav0415/leetcode/tree/master/0871-keys-and-rooms) |
 ## Design
 |  |
 | ------- |
