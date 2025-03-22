@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/vaibhav0415/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/vaibhav0415/leetcode/tree/master/1448-maximum-69-number) |
 | [1610-xor-operation-in-an-array](https://github.com/vaibhav0415/leetcode/tree/master/1610-xor-operation-in-an-array) |
+| [1642-water-bottles](https://github.com/vaibhav0415/leetcode/tree/master/1642-water-bottles) |
 ## Recursion
 |  |
 | ------- |
@@ -810,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/vaibhav0415/leetcode/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/vaibhav0415/leetcode/tree/master/0898-transpose-matrix) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/vaibhav0415/leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1642-water-bottles](https://github.com/vaibhav0415/leetcode/tree/master/1642-water-bottles) |
 ## Combinatorics
 |  |
 | ------- |
