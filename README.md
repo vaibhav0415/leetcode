@@ -757,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0800-letter-case-permutation](https://github.com/vaibhav0415/leetcode/tree/master/0800-letter-case-permutation) |
 | [0861-flipping-an-image](https://github.com/vaibhav0415/leetcode/tree/master/0861-flipping-an-image) |
 | [0891-score-after-flipping-matrix](https://github.com/vaibhav0415/leetcode/tree/master/0891-score-after-flipping-matrix) |
+| [1054-complement-of-base-10-integer](https://github.com/vaibhav0415/leetcode/tree/master/1054-complement-of-base-10-integer) |
 ## Memoization
 |  |
 | ------- |
