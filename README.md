@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/vaibhav0415/leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/vaibhav0415/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/vaibhav0415/leetcode/tree/master/0213-house-robber-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/vaibhav0415/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vaibhav0415/leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/vaibhav0415/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/vaibhav0415/leetcode/tree/master/0191-number-of-1-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/vaibhav0415/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/vaibhav0415/leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/vaibhav0415/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/vaibhav0415/leetcode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/vaibhav0415/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vaibhav0415/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0215-kth-largest-element-in-an-array](https://github.com/vaibhav0415/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -549,4 +553,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vaibhav0415/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/vaibhav0415/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
