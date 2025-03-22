@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/vaibhav0415/leetcode/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/vaibhav0415/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vaibhav0415/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/vaibhav0415/leetcode/tree/master/0567-permutation-in-string) |
 ## Linked List
 |  |
 | ------- |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/vaibhav0415/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/vaibhav0415/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/vaibhav0415/leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0567-permutation-in-string](https://github.com/vaibhav0415/leetcode/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/vaibhav0415/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 ## Sliding Window
 |  |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/vaibhav0415/leetcode/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/vaibhav0415/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vaibhav0415/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/vaibhav0415/leetcode/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -385,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/vaibhav0415/leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/vaibhav0415/leetcode/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/vaibhav0415/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0567-permutation-in-string](https://github.com/vaibhav0415/leetcode/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
 | ------- |
