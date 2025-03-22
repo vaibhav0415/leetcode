@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/vaibhav0415/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/vaibhav0415/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0415-add-strings](https://github.com/vaibhav0415/leetcode/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/vaibhav0415/leetcode/tree/master/0441-arranging-coins) |
 ## Recursion
 |  |
 | ------- |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/vaibhav0415/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/vaibhav0415/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0367-valid-perfect-square](https://github.com/vaibhav0415/leetcode/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/vaibhav0415/leetcode/tree/master/0441-arranging-coins) |
 ## Divide and Conquer
 |  |
 | ------- |
