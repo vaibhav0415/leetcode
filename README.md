@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/vaibhav0415/leetcode/tree/master/0861-flipping-an-image) |
 | [0875-longest-mountain-in-array](https://github.com/vaibhav0415/leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/vaibhav0415/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0890-lemonade-change](https://github.com/vaibhav0415/leetcode/tree/master/0890-lemonade-change) |
 ## Hash Table
 |  |
 | ------- |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/vaibhav0415/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/vaibhav0415/leetcode/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/vaibhav0415/leetcode/tree/master/0797-rabbits-in-forest) |
+| [0890-lemonade-change](https://github.com/vaibhav0415/leetcode/tree/master/0890-lemonade-change) |
 ## Trie
 |  |
 | ------- |
