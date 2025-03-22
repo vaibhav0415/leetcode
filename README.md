@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/vaibhav0415/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vaibhav0415/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/vaibhav0415/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0645-set-mismatch](https://github.com/vaibhav0415/leetcode/tree/master/0645-set-mismatch) |
 | [0860-design-circular-queue](https://github.com/vaibhav0415/leetcode/tree/master/0860-design-circular-queue) |
 ## Hash Table
 |  |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/vaibhav0415/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/vaibhav0415/leetcode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/vaibhav0415/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0645-set-mismatch](https://github.com/vaibhav0415/leetcode/tree/master/0645-set-mismatch) |
 ## Linked List
 |  |
 | ------- |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/vaibhav0415/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vaibhav0415/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/vaibhav0415/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0645-set-mismatch](https://github.com/vaibhav0415/leetcode/tree/master/0645-set-mismatch) |
 ## Backtracking
 |  |
 | ------- |
@@ -614,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/vaibhav0415/leetcode/tree/master/0397-integer-replacement) |
 | [0461-hamming-distance](https://github.com/vaibhav0415/leetcode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/vaibhav0415/leetcode/tree/master/0476-number-complement) |
+| [0645-set-mismatch](https://github.com/vaibhav0415/leetcode/tree/master/0645-set-mismatch) |
 ## Memoization
 |  |
 | ------- |
