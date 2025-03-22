@@ -552,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/vaibhav0415/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/vaibhav0415/leetcode/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/vaibhav0415/leetcode/tree/master/0397-integer-replacement) |
+| [0461-hamming-distance](https://github.com/vaibhav0415/leetcode/tree/master/0461-hamming-distance) |
 ## Memoization
 |  |
 | ------- |
