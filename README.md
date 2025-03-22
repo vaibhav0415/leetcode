@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/vaibhav0415/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vaibhav0415/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vaibhav0415/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/vaibhav0415/leetcode/tree/master/0127-word-ladder) |
 ## Linked List
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/vaibhav0415/leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/vaibhav0415/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/vaibhav0415/leetcode/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/vaibhav0415/leetcode/tree/master/0127-word-ladder) |
 ## Sliding Window
 |  |
 | ------- |
@@ -384,4 +386,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/vaibhav0415/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/vaibhav0415/leetcode/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/vaibhav0415/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0127-word-ladder](https://github.com/vaibhav0415/leetcode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
