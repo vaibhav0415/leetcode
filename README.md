@@ -623,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/vaibhav0415/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/vaibhav0415/leetcode/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/vaibhav0415/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/vaibhav0415/leetcode/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -660,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/vaibhav0415/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/vaibhav0415/leetcode/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/vaibhav0415/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/vaibhav0415/leetcode/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -671,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vaibhav0415/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vaibhav0415/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/vaibhav0415/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/vaibhav0415/leetcode/tree/master/0450-delete-node-in-a-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
