@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/vaibhav0415/leetcode/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/vaibhav0415/leetcode/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/vaibhav0415/leetcode/tree/master/0797-rabbits-in-forest) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/vaibhav0415/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0817-design-hashmap](https://github.com/vaibhav0415/leetcode/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/vaibhav0415/leetcode/tree/master/0860-design-circular-queue) |
 ## Hash Table
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/vaibhav0415/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/vaibhav0415/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/vaibhav0415/leetcode/tree/master/0792-binary-search) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/vaibhav0415/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/vaibhav0415/leetcode/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/vaibhav0415/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/vaibhav0415/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/vaibhav0415/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 ## Greedy
 |  |
 | ------- |
@@ -493,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/vaibhav0415/leetcode/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/vaibhav0415/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/vaibhav0415/leetcode/tree/master/0778-reorganize-string) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/vaibhav0415/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 ## Backtracking
 |  |
 | ------- |
@@ -549,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/vaibhav0415/leetcode/tree/master/0744-network-delay-time) |
 | [0778-reorganize-string](https://github.com/vaibhav0415/leetcode/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/vaibhav0415/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/vaibhav0415/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 ## Merge Sort
 |  |
 | ------- |
