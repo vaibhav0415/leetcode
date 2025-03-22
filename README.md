@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/vaibhav0415/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1435-xor-queries-of-a-subarray](https://github.com/vaibhav0415/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/vaibhav0415/leetcode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1479-construct-target-array-with-multiple-sums](https://github.com/vaibhav0415/leetcode/tree/master/1479-construct-target-array-with-multiple-sums) |
 ## Hash Table
 |  |
 | ------- |
@@ -660,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/vaibhav0415/leetcode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/vaibhav0415/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/vaibhav0415/leetcode/tree/master/1127-last-stone-weight) |
+| [1479-construct-target-array-with-multiple-sums](https://github.com/vaibhav0415/leetcode/tree/master/1479-construct-target-array-with-multiple-sums) |
 ## Merge Sort
 |  |
 | ------- |
