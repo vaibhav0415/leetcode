@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/vaibhav0415/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/vaibhav0415/leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/vaibhav0415/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0860-design-circular-queue](https://github.com/vaibhav0415/leetcode/tree/master/0860-design-circular-queue) |
 ## Hash Table
 |  |
 | ------- |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/vaibhav0415/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/vaibhav0415/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/vaibhav0415/leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [0860-design-circular-queue](https://github.com/vaibhav0415/leetcode/tree/master/0860-design-circular-queue) |
 ## Math
 |  |
 | ------- |
@@ -809,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/vaibhav0415/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/vaibhav0415/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0449-serialize-and-deserialize-bst](https://github.com/vaibhav0415/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
+| [0860-design-circular-queue](https://github.com/vaibhav0415/leetcode/tree/master/0860-design-circular-queue) |
 ## Counting
 |  |
 | ------- |
@@ -854,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/vaibhav0415/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/vaibhav0415/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0860-design-circular-queue](https://github.com/vaibhav0415/leetcode/tree/master/0860-design-circular-queue) |
 ## Monotonic Queue
 |  |
 | ------- |
