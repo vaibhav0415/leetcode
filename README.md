@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/vaibhav0415/leetcode/tree/master/1651-shuffle-string) |
 | [1656-count-good-triplets](https://github.com/vaibhav0415/leetcode/tree/master/1656-count-good-triplets) |
 | [1706-min-cost-to-connect-all-points](https://github.com/vaibhav0415/leetcode/tree/master/1706-min-cost-to-connect-all-points) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/vaibhav0415/leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Hash Table
 |  |
 | ------- |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/vaibhav0415/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/vaibhav0415/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1646-kth-missing-positive-number](https://github.com/vaibhav0415/leetcode/tree/master/1646-kth-missing-positive-number) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/vaibhav0415/leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -625,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/vaibhav0415/leetcode/tree/master/1217-relative-sort-array) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/vaibhav0415/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1503-reducing-dishes](https://github.com/vaibhav0415/leetcode/tree/master/1503-reducing-dishes) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/vaibhav0415/leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Backtracking
 |  |
 | ------- |
