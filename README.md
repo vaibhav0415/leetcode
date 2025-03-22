@@ -410,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/vaibhav0415/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vaibhav0415/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1651-shuffle-string](https://github.com/vaibhav0415/leetcode/tree/master/1651-shuffle-string) |
+| [1652-minimum-suffix-flips](https://github.com/vaibhav0415/leetcode/tree/master/1652-minimum-suffix-flips) |
 ## Sliding Window
 |  |
 | ------- |
@@ -562,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/vaibhav0415/leetcode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1489-pizza-with-3n-slices](https://github.com/vaibhav0415/leetcode/tree/master/1489-pizza-with-3n-slices) |
 | [1503-reducing-dishes](https://github.com/vaibhav0415/leetcode/tree/master/1503-reducing-dishes) |
+| [1652-minimum-suffix-flips](https://github.com/vaibhav0415/leetcode/tree/master/1652-minimum-suffix-flips) |
 ## Trie
 |  |
 | ------- |
