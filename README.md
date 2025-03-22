@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/vaibhav0415/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vaibhav0415/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vaibhav0415/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0354-russian-doll-envelopes](https://github.com/vaibhav0415/leetcode/tree/master/0354-russian-doll-envelopes) |
 ## Hash Table
 |  |
 | ------- |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/vaibhav0415/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/vaibhav0415/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vaibhav0415/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0354-russian-doll-envelopes](https://github.com/vaibhav0415/leetcode/tree/master/0354-russian-doll-envelopes) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/vaibhav0415/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vaibhav0415/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vaibhav0415/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0354-russian-doll-envelopes](https://github.com/vaibhav0415/leetcode/tree/master/0354-russian-doll-envelopes) |
 ## Backtracking
 |  |
 | ------- |
@@ -454,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/vaibhav0415/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/vaibhav0415/leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/vaibhav0415/leetcode/tree/master/0338-counting-bits) |
+| [0354-russian-doll-envelopes](https://github.com/vaibhav0415/leetcode/tree/master/0354-russian-doll-envelopes) |
 ## Monotonic Stack
 |  |
 | ------- |
