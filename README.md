@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/vaibhav0415/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/vaibhav0415/leetcode/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vaibhav0415/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vaibhav0415/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Hash Table
 |  |
 | ------- |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/vaibhav0415/leetcode/tree/master/0135-candy) |
 | [0397-integer-replacement](https://github.com/vaibhav0415/leetcode/tree/master/0397-integer-replacement) |
 | [0435-non-overlapping-intervals](https://github.com/vaibhav0415/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vaibhav0415/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Trie
 |  |
 | ------- |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/vaibhav0415/leetcode/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/vaibhav0415/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/vaibhav0415/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vaibhav0415/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Backtracking
 |  |
 | ------- |
