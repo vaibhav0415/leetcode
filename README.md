@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/vaibhav0415/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vaibhav0415/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/vaibhav0415/leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/vaibhav0415/leetcode/tree/master/0202-happy-number) |
 ## Linked List
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/vaibhav0415/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/vaibhav0415/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/vaibhav0415/leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/vaibhav0415/leetcode/tree/master/0202-happy-number) |
 ## Recursion
 |  |
 | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/vaibhav0415/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vaibhav0415/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/vaibhav0415/leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/vaibhav0415/leetcode/tree/master/0202-happy-number) |
 ## Greedy
 |  |
 | ------- |
