@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/vaibhav0415/leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/vaibhav0415/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vaibhav0415/leetcode/tree/master/0739-daily-temperatures) |
+| [0741-cherry-pickup](https://github.com/vaibhav0415/leetcode/tree/master/0741-cherry-pickup) |
 | [0792-binary-search](https://github.com/vaibhav0415/leetcode/tree/master/0792-binary-search) |
 | [0817-design-hashmap](https://github.com/vaibhav0415/leetcode/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/vaibhav0415/leetcode/tree/master/0860-design-circular-queue) |
@@ -565,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/vaibhav0415/leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/vaibhav0415/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/vaibhav0415/leetcode/tree/master/0733-flood-fill) |
+| [0741-cherry-pickup](https://github.com/vaibhav0415/leetcode/tree/master/0741-cherry-pickup) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -605,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/vaibhav0415/leetcode/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/vaibhav0415/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0688-knight-probability-in-chessboard](https://github.com/vaibhav0415/leetcode/tree/master/0688-knight-probability-in-chessboard) |
+| [0741-cherry-pickup](https://github.com/vaibhav0415/leetcode/tree/master/0741-cherry-pickup) |
 | [1013-fibonacci-number](https://github.com/vaibhav0415/leetcode/tree/master/1013-fibonacci-number) |
 ## Monotonic Stack
 |  |
