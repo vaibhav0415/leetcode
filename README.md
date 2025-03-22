@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/vaibhav0415/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1646-kth-missing-positive-number](https://github.com/vaibhav0415/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/vaibhav0415/leetcode/tree/master/1651-shuffle-string) |
+| [1656-count-good-triplets](https://github.com/vaibhav0415/leetcode/tree/master/1656-count-good-triplets) |
 ## Hash Table
 |  |
 | ------- |
@@ -1201,6 +1202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/vaibhav0415/leetcode/tree/master/0204-count-primes) |
 | [0875-longest-mountain-in-array](https://github.com/vaibhav0415/leetcode/tree/master/0875-longest-mountain-in-array) |
+| [1656-count-good-triplets](https://github.com/vaibhav0415/leetcode/tree/master/1656-count-good-triplets) |
 ## Number Theory
 |  |
 | ------- |
