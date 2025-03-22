@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/vaibhav0415/leetcode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/vaibhav0415/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/vaibhav0415/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/vaibhav0415/leetcode/tree/master/0289-game-of-life) |
 ## Hash Table
 |  |
 | ------- |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/vaibhav0415/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/vaibhav0415/leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vaibhav0415/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0289-game-of-life](https://github.com/vaibhav0415/leetcode/tree/master/0289-game-of-life) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/vaibhav0415/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/vaibhav0415/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/vaibhav0415/leetcode/tree/master/0258-add-digits) |
+| [0289-game-of-life](https://github.com/vaibhav0415/leetcode/tree/master/0289-game-of-life) |
 ## Combinatorics
 |  |
 | ------- |
