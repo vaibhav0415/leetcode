@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/vaibhav0415/leetcode/tree/master/0739-daily-temperatures) |
 | [0741-cherry-pickup](https://github.com/vaibhav0415/leetcode/tree/master/0741-cherry-pickup) |
 | [0747-min-cost-climbing-stairs](https://github.com/vaibhav0415/leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0777-toeplitz-matrix](https://github.com/vaibhav0415/leetcode/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/vaibhav0415/leetcode/tree/master/0792-binary-search) |
 | [0817-design-hashmap](https://github.com/vaibhav0415/leetcode/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/vaibhav0415/leetcode/tree/master/0860-design-circular-queue) |
@@ -569,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/vaibhav0415/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/vaibhav0415/leetcode/tree/master/0733-flood-fill) |
 | [0741-cherry-pickup](https://github.com/vaibhav0415/leetcode/tree/master/0741-cherry-pickup) |
+| [0777-toeplitz-matrix](https://github.com/vaibhav0415/leetcode/tree/master/0777-toeplitz-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
