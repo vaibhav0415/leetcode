@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/vaibhav0415/leetcode/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/vaibhav0415/leetcode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/vaibhav0415/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1236-n-th-tribonacci-number](https://github.com/vaibhav0415/leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
@@ -723,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-longest-mountain-in-array](https://github.com/vaibhav0415/leetcode/tree/master/0875-longest-mountain-in-array) |
 | [1008-binary-tree-cameras](https://github.com/vaibhav0415/leetcode/tree/master/1008-binary-tree-cameras) |
 | [1013-fibonacci-number](https://github.com/vaibhav0415/leetcode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/vaibhav0415/leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -787,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/vaibhav0415/leetcode/tree/master/0070-climbing-stairs) |
 | [0397-integer-replacement](https://github.com/vaibhav0415/leetcode/tree/master/0397-integer-replacement) |
 | [1013-fibonacci-number](https://github.com/vaibhav0415/leetcode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/vaibhav0415/leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Depth-First Search
 |  |
 | ------- |
