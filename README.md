@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/vaibhav0415/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/vaibhav0415/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/vaibhav0415/leetcode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/vaibhav0415/leetcode/tree/master/0096-unique-binary-search-trees) |
 ## Recursion
 |  |
 | ------- |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/vaibhav0415/leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/vaibhav0415/leetcode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/vaibhav0415/leetcode/tree/master/0085-maximal-rectangle) |
+| [0096-unique-binary-search-trees](https://github.com/vaibhav0415/leetcode/tree/master/0096-unique-binary-search-trees) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -276,8 +278,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vaibhav0415/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/vaibhav0415/leetcode/tree/master/0096-unique-binary-search-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vaibhav0415/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/vaibhav0415/leetcode/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/vaibhav0415/leetcode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
