@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1503-reducing-dishes](https://github.com/vaibhav0415/leetcode/tree/master/1503-reducing-dishes) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/vaibhav0415/leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/vaibhav0415/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1603-running-sum-of-1d-array](https://github.com/vaibhav0415/leetcode/tree/master/1603-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -1212,6 +1213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/vaibhav0415/leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/vaibhav0415/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/vaibhav0415/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1603-running-sum-of-1d-array](https://github.com/vaibhav0415/leetcode/tree/master/1603-running-sum-of-1d-array) |
 ## Quickselect
 |  |
 | ------- |
