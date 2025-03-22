@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/vaibhav0415/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vaibhav0415/leetcode/tree/master/0739-daily-temperatures) |
 | [0741-cherry-pickup](https://github.com/vaibhav0415/leetcode/tree/master/0741-cherry-pickup) |
+| [0747-min-cost-climbing-stairs](https://github.com/vaibhav0415/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/vaibhav0415/leetcode/tree/master/0792-binary-search) |
 | [0817-design-hashmap](https://github.com/vaibhav0415/leetcode/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/vaibhav0415/leetcode/tree/master/0860-design-circular-queue) |
@@ -609,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/vaibhav0415/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0688-knight-probability-in-chessboard](https://github.com/vaibhav0415/leetcode/tree/master/0688-knight-probability-in-chessboard) |
 | [0741-cherry-pickup](https://github.com/vaibhav0415/leetcode/tree/master/0741-cherry-pickup) |
+| [0747-min-cost-climbing-stairs](https://github.com/vaibhav0415/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/vaibhav0415/leetcode/tree/master/1013-fibonacci-number) |
 ## Monotonic Stack
 |  |
