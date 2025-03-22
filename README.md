@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/vaibhav0415/leetcode/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/vaibhav0415/leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/vaibhav0415/leetcode/tree/master/0733-flood-fill) |
+| [0735-asteroid-collision](https://github.com/vaibhav0415/leetcode/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/vaibhav0415/leetcode/tree/master/0792-binary-search) |
 | [0817-design-hashmap](https://github.com/vaibhav0415/leetcode/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/vaibhav0415/leetcode/tree/master/0860-design-circular-queue) |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/vaibhav0415/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vaibhav0415/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/vaibhav0415/leetcode/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/vaibhav0415/leetcode/tree/master/0735-asteroid-collision) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -621,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/vaibhav0415/leetcode/tree/master/0289-game-of-life) |
 | [0415-add-strings](https://github.com/vaibhav0415/leetcode/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/vaibhav0415/leetcode/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/vaibhav0415/leetcode/tree/master/0735-asteroid-collision) |
 ## Combinatorics
 |  |
 | ------- |
