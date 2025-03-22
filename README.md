@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/vaibhav0415/leetcode/tree/master/1651-shuffle-string) |
 | [1656-count-good-triplets](https://github.com/vaibhav0415/leetcode/tree/master/1656-count-good-triplets) |
 | [1706-min-cost-to-connect-all-points](https://github.com/vaibhav0415/leetcode/tree/master/1706-min-cost-to-connect-all-points) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/vaibhav0415/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/vaibhav0415/leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Hash Table
 |  |
@@ -572,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1489-pizza-with-3n-slices](https://github.com/vaibhav0415/leetcode/tree/master/1489-pizza-with-3n-slices) |
 | [1503-reducing-dishes](https://github.com/vaibhav0415/leetcode/tree/master/1503-reducing-dishes) |
 | [1652-minimum-suffix-flips](https://github.com/vaibhav0415/leetcode/tree/master/1652-minimum-suffix-flips) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/vaibhav0415/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 ## Trie
 |  |
 | ------- |
@@ -744,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/vaibhav0415/leetcode/tree/master/1073-number-of-enclaves) |
 | [1104-coloring-a-border](https://github.com/vaibhav0415/leetcode/tree/master/1104-coloring-a-border) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/vaibhav0415/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/vaibhav0415/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 ## Dynamic Programming
 |  |
 | ------- |
