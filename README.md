@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/vaibhav0415/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1160-letter-tile-possibilities](https://github.com/vaibhav0415/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1250-longest-common-subsequence](https://github.com/vaibhav0415/leetcode/tree/master/1250-longest-common-subsequence) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vaibhav0415/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -617,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1072-next-greater-node-in-linked-list](https://github.com/vaibhav0415/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/vaibhav0415/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/vaibhav0415/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vaibhav0415/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
