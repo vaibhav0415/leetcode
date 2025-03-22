@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/vaibhav0415/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/vaibhav0415/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/vaibhav0415/leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1367-maximum-height-by-stacking-cuboids](https://github.com/vaibhav0415/leetcode/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1370-count-number-of-nice-subarrays](https://github.com/vaibhav0415/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/vaibhav0415/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1435-xor-queries-of-a-subarray](https://github.com/vaibhav0415/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
@@ -637,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/vaibhav0415/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/vaibhav0415/leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1217-relative-sort-array](https://github.com/vaibhav0415/leetcode/tree/master/1217-relative-sort-array) |
+| [1367-maximum-height-by-stacking-cuboids](https://github.com/vaibhav0415/leetcode/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/vaibhav0415/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1503-reducing-dishes](https://github.com/vaibhav0415/leetcode/tree/master/1503-reducing-dishes) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/vaibhav0415/leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -810,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/vaibhav0415/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/vaibhav0415/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/vaibhav0415/leetcode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
+| [1367-maximum-height-by-stacking-cuboids](https://github.com/vaibhav0415/leetcode/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vaibhav0415/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/vaibhav0415/leetcode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/vaibhav0415/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
