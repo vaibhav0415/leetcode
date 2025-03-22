@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/vaibhav0415/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/vaibhav0415/leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/vaibhav0415/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/vaibhav0415/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0860-design-circular-queue](https://github.com/vaibhav0415/leetcode/tree/master/0860-design-circular-queue) |
 ## Hash Table
 |  |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/vaibhav0415/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/vaibhav0415/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/vaibhav0415/leetcode/tree/master/0507-perfect-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/vaibhav0415/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/vaibhav0415/leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/vaibhav0415/leetcode/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/vaibhav0415/leetcode/tree/master/0506-relative-ranks) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/vaibhav0415/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/vaibhav0415/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Backtracking
 |  |
 | ------- |
